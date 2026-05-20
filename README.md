@@ -40,13 +40,13 @@
 5. Click Generate Sheets – wait for completion.
 6. Find PNG sheets (and a combined PDF if selected) in the output folder.
 
-Example output
+## Example output
 - my_presentation_sheet_1.png – first A4 sheet (slides 1–6 or 1–9)
 - my_presentation_sheet_2.png – second sheet
 - my_presentation_combined.pdf – all sheets in one PDF (optional)
 
-License
+## License
 MIT
 
-Author
-night-rise (https://github.com/night-rise)
+## Author
+**night-rise (https://github.com/night-rise)**
