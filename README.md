@@ -3,7 +3,7 @@
 **Automatically export PowerPoint slides and arrange them on A4 sheets (6 or 9 slides per sheet) with full control over layout. No manual positioning in Photoshop.**
 
 **Download ready-to-use .exe**
-**Go to Releases and download PPT_to_A4_Generator.exe**
+**Go to [Releases](https://github.com/night-rise/ppt2a4/releases/latest) and download PPT_to_A4_Generator.exe**
 **Just run it – Microsoft PowerPoint must be installed.**
 
 ## Features
